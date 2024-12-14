@@ -5,4 +5,7 @@ print ((12-3)*3)
 print(12**2)
 # Double * for expressions
 
-
+# Rounding off floating point numbers:
+x = 123.4457923
+print(round(x,2))
+# using the float round without specifying the number of decimal digits to round to will round it to the nearest int
