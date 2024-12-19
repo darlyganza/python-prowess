@@ -1,0 +1,5 @@
+name = input("Enter a name: ")
+adjective = input("Enter an adjective: ")
+verb= input("Enter a verb ending in ing: ")
+adverb  = input("Enter an adverb: ")
+print(f"The {name} is {adjective} and is {verb} {adverb}")
